@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "citetrust"
+version = "0.1.0"
+description = "Check that the references in a Markdown, DOCX, LaTeX, BibTeX or text document exist, match what the document claims, are not retracted, and that cited URLs are alive. Zero dependencies, no API key."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+authors = [{ name = "Inhyeok Park" }]
+keywords = ["citations", "references", "bibliography", "crossref", "openalex", "arxiv", "hallucination", "docx", "markdown", "bibtex", "retraction", "link-checker", "cli"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Education",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Text Processing :: Markup",
+  "Topic :: Scientific/Engineering",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/kosys0224-spec/citetrust"
+Issues = "https://github.com/kosys0224-spec/citetrust/issues"
+Changelog = "https://github.com/kosys0224-spec/citetrust/blob/main/CHANGELOG.md"
+
+[project.scripts]
+citetrust = "citetrust.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+citetrust = ["py.typed"]
