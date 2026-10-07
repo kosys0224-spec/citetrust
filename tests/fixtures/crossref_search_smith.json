@@ -1,0 +1,31 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message": {
+  "items": [
+   {
+    "DOI": "10.1038/s41560-020-00717-1",
+    "title": [
+     "Machine learning for grid stability assessment"
+    ],
+    "author": [
+     {
+      "given": "T.",
+      "family": "Nguyen"
+     }
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020
+      ]
+     ]
+    },
+    "container-title": [
+     "Nature Energy"
+    ],
+    "score": 22.0
+   }
+  ]
+ }
+}

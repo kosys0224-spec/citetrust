@@ -1,0 +1,54 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message": {
+  "DOI": "10.1109/5.771073",
+  "type": "journal-article",
+  "title": [
+   "Toward unique identifiers"
+  ],
+  "author": [
+   {
+    "given": "N.",
+    "family": "Paskin",
+    "sequence": "first",
+    "affiliation": []
+   }
+  ],
+  "container-title": [
+   "Proceedings of the IEEE"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1999,
+     7
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     1999,
+     7
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "URL": "https://doi.org/10.1109/5.771073",
+  "volume": "87",
+  "issue": "7",
+  "page": "1208-1227",
+  "update-to": null,
+  "relation": {
+   "has-preprint": [
+    {
+     "id-type": "doi",
+     "id": "10.31219/osf.io/cwjqe",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "is-referenced-by-count": 65
+ }
+}

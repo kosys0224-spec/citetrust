@@ -1,0 +1,58 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message": {
+  "items": [
+   {
+    "DOI": "10.1109/tpwrd.2015.2404532",
+    "title": [
+     "Voltage Sag Mitigation Using Distributed Generation in Radial Feeders"
+    ],
+    "author": [
+     {
+      "given": "R.",
+      "family": "Gupta"
+     },
+     {
+      "given": "A.",
+      "family": "Ghosh"
+     }
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015
+      ]
+     ]
+    },
+    "container-title": [
+     "IEEE Transactions on Power Delivery"
+    ],
+    "score": 28.1
+   },
+   {
+    "DOI": "10.1016/j.est.2019.100812",
+    "title": [
+     "Community energy storage: A review of its economic and technical potential"
+    ],
+    "author": [
+     {
+      "given": "M.",
+      "family": "Parra"
+     }
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Energy Storage"
+    ],
+    "score": 24.9
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "meta": {
+  "count": 1
+ },
+ "results": [
+  {
+   "id": "https://openalex.org/W2001",
+   "doi": "https://doi.org/10.1109/tpwrd.2015.2404532",
+   "title": "Voltage Sag Mitigation Using Distributed Generation in Radial Feeders",
+   "publication_year": 2015,
+   "type": "article",
+   "is_retracted": false,
+   "authorships": [
+    {
+     "author": {
+      "display_name": "Rohit Gupta"
+     }
+    }
+   ],
+   "primary_location": {
+    "source": {
+     "display_name": "IEEE Transactions on Power Delivery"
+    }
+   }
+  }
+ ]
+}

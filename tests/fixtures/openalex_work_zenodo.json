@@ -1,0 +1,27 @@
+{
+ "id": "https://openalex.org/W3001",
+ "doi": "https://doi.org/10.5281/zenodo.1234567",
+ "title": "A dataset of synthetic distribution feeders",
+ "display_name": "A dataset of synthetic distribution feeders",
+ "publication_year": 2021,
+ "type": "dataset",
+ "is_retracted": false,
+ "authorships": [
+  {
+   "author": {
+    "display_name": "Ana Costa"
+   }
+  },
+  {
+   "author": {
+    "display_name": "Ben Wright"
+   }
+  }
+ ],
+ "primary_location": {
+  "source": {
+   "display_name": "Zenodo"
+  }
+ },
+ "cited_by_count": 3
+}

@@ -1,0 +1,45 @@
+{
+ "header": {
+  "type": "esummary",
+  "version": "0.3"
+ },
+ "result": {
+  "uids": [
+   "31452104"
+  ],
+  "31452104": {
+   "uid": "31452104",
+   "pubdate": "2019 Nov",
+   "title": "Deep learning in power systems research: a review.",
+   "authors": [
+    {
+     "name": "Ozcanli AK",
+     "authtype": "Author"
+    },
+    {
+     "name": "Yaprakdal F",
+     "authtype": "Author"
+    },
+    {
+     "name": "Baysal M",
+     "authtype": "Author"
+    }
+   ],
+   "fulljournalname": "Electric Power Systems Research",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "value": "31452104"
+    },
+    {
+     "idtype": "doi",
+     "value": "10.1016/j.epsr.2019.106013"
+    }
+   ]
+  }
+ }
+}

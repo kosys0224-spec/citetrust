@@ -1,0 +1,37 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message": {
+  "items": [
+   {
+    "DOI": "10.1109/pesgm40551.2019.8973939",
+    "title": [
+     "Transformer-Based Load Forecasting for Distribution Networks"
+    ],
+    "author": [
+     {
+      "given": "Marcus",
+      "family": "Schmidt"
+     },
+     {
+      "given": "Lin",
+      "family": "Hu"
+     }
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "2019 IEEE Power & Energy Society General Meeting (PESGM)"
+    ],
+    "score": 61.2,
+    "type": "proceedings-article"
+   }
+  ]
+ }
+}
