@@ -1,0 +1,21 @@
+name: Bug report
+description: Crash, wrong verdict, or installation problem
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Command and output (`--json -v` is most useful)
+      render: shell
+  - type: input
+    id: version
+    attributes:
+      label: citetrust --version, Python version, OS
+    validations:
+      required: true
